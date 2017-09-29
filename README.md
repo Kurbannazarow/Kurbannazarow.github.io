@@ -1,6 +1,6 @@
 
-# Курбанназаров Эзиз
+# Курбанназаров Эзиз [Ezizvk](https://vk.com/ezizkurbannazarov "Eziz")
 Здесь мои домашные задания
 
-[___Урок 12___](https://kurbannazarow.github.io/ "Урок по GitHub")
+[Урок 12](https://kurbannazarow.github.io/ "Урок по GitHub") - Урок по GitHub
 
