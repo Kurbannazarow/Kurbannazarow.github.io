@@ -26,5 +26,9 @@
 
 [Урок 11](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/Lesson_11 "Урок11") - Сниппеты 
 
+[Урок 13](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/Lesson_13 "Урок13") - Адаптивная верстка 
+
+
+
 
 
