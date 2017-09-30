@@ -1,0 +1,64 @@
+body {
+  background:  url(../img/png/bg.jpg) center repeat;
+  
+}
+.container {
+  margin-top: 50px;
+  padding: 0 20px;
+  position: absolute;
+  left: 50%;
+  transform: transitionX(-50%);
+  width: 320px;
+  background-color: #fbfdfd;
+}
+
+h2 {
+  position: absolute;
+  top: -15px;
+  display: inline-block;
+  font-size: 12px;
+  color: white;
+  padding: 3px 5px 8px 5px;
+  text-transform: uppercase;
+  background-color: #01b3b3;
+}
+
+h3 {
+  font-size: 12px;
+  font-weight: 600;
+
+}
+
+h3 span {
+  color: #01c2c2;
+}
+
+input {
+  background:  url(../img/png/bg.jpg) center repeat;
+  height: 30px;
+  display: block;
+  width: 100%;
+}
+
+form button {
+  border: none;
+  margin-bottom: 35px;
+  text-transform: uppercase;
+  padding: 15px;
+  margin-top: 35px;
+  display: block;
+  width: 100%;
+  font-size: 16px;
+  color: #fff;
+  background-color: #01c3c3;
+}
+
+input[placeholder] {
+  left: 10px;
+
+} 
+
+form {
+  margin-top: 50px;
+  width: 280px;
+}
