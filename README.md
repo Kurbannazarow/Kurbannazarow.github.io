@@ -28,7 +28,7 @@
 
 [Урок 13](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/Lesson_13 "Урок13") - Адаптивная верстка 
 
-[Практика.Часть1](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/Lesson_11 "Урок11") - Практика. Часть 1.
+[Практика.Часть1](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_1_%D1%87%D0%B0%D1%81%D1%82%D1%8C "практика1_1") - Практика. Часть 1.
 Подготовка файлов. Верстка шапки сайта.
 
 
