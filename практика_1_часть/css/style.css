@@ -21,6 +21,14 @@ body {
 html {
   font-size: 10px;
 }
+a:hover {
+  text-decoration: none;
+}
+button,
+input,
+a {
+  outline: none;
+}
 .button {
   font-size: 1.2rem;
   padding: 1rem 3rem;
@@ -29,6 +37,12 @@ html {
   color: #ffffff;
   text-transform: uppercase;
   border: none;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+.button:hover {
+  cursor: pointer;
+  background-color: #e19f02;
 }
 /* typography */
 .section {
@@ -145,4 +159,28 @@ html {
   height: 7rem;
   line-height: 7rem;
   color: #1a1820;
+}
+@media (max-width: 991px) {
+  .main {
+    background-position: top right;
+  }
+  .phone-block {
+    text-align: center;
+  }
+  .main-content {
+    margin-top: 3rem;
+  }
+  .main-title {
+    padding-bottom: 3rem;
+    text-align: center;
+  }
+}
+
+@media(max-width:767px){
+  .header{
+    text-align: center;
+  }
+  .wrap-block {
+    text-align: center;
+  }
 }
