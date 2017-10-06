@@ -35,5 +35,5 @@
  
 [Урок 14](https://github.com/Kurbannazarow/Kurbannazarow.github.io/blob/master/Lesson_14/%D0%90%D0%A0%D0%A5%D0%98%D0%92%20%D0%A1%20%D0%94%D0%97%20(14%20%D0%A3%D0%A0%D0%9E%D0%9A)/index.html "Урок14") - Подключение шрифтов
 
-
+[Урок 16](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/lesson_16 "Урок16") - Слайдер на сайте  
 
