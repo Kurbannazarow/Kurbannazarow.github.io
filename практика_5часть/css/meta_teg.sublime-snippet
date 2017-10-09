@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="${1:en}">
+<head>
+	<meta charset="UTF-8">
+	<title>Meta_teg</title>
+</head>
+<body>
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>meta_teg</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
