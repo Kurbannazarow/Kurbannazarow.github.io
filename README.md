@@ -39,3 +39,7 @@
 
 [практика_5ч](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_5_%D1%87%D0%B0%D1%81%D1%82%D1%8C "практика 5 часть") - 5 часть практики  
 
+[Урок 19](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/lesson_19 "Урок19") - анимация на css3  
+
+
+
