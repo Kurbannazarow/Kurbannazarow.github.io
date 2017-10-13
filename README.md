@@ -41,5 +41,6 @@
 
 [Урок 19](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/lesson_19 "Урок19") - анимация на css3  
 
+[практика_7ч](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/практика_7_часть "практика 7 часть") - 7 часть практики
 
 
