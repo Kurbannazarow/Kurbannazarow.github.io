@@ -43,4 +43,6 @@
 
 [практика_7ч](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/практика_7_часть "практика 7 часть") - 7 часть практики
 
+[практика_8ч](https://github.com/Kurbannazarow/Kurbannazarow.github.io/tree/master/практика_8_часть "практика 8 часть") - 8 часть практики 
+
 
