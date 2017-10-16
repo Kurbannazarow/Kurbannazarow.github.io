@@ -1,0 +1,140 @@
+html {
+.fz(10px);}
+@body: 'museo_reg' , sans-serif; 
+body {
+	font-family: @body;
+}
+section {
+	.feedback-forms-all(4rem 0 8rem;)
+}
+a:hover, a:focus, a:active {
+	text-decoration: none;
+}
+button:focus,input:focus,a:focus,textarea:focus {
+  outline: none;
+}
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+}
+.feedback-forms-all(@feedb_form: 6rem 0 9rem 0) {
+  padding: @feedb_form;
+}
+.feedback-forms-all {
+  .feedback-forms-all;
+}
+.margin_b(@mb: 6rem) {
+	margin-bottom: @mb;
+}
+@text_a: center;
+.section-title {
+  .margin_b;
+  text-align: @text_a;
+  text-transform: uppercase;
+  font-family: @body;
+  .fz(3rem);
+  color: #1b1b1b;
+}
+.font () {
+  content: '';
+  display: inline-block;
+  width: 1.5rem;
+  height: 0.1rem;
+ .margin_b(15px);
+  background-color: @background;
+}
+@background: #5ba2a9;
+.section-title .upper-icon-wrapper::before {
+  .font;
+}
+.section-title .upper-icon-wrapper::after {
+  .font;
+}
+.section-title .upper-icon-wrapper .upper-icon {
+  .margin_b(1.5rem);
+  width: 2rem;
+  height: 2rem;
+}
+  .feedback-form-statement {
+  .feedback-forms-all(6rem 0 0);
+}
+.feedback-form-title {
+  .margin_b(6rem);
+  text-align: @text_a;
+}
+.feedback-form-title h3 {
+.margin_b(1.2rem);
+  font-family: @body;
+  .fz(2.5rem);
+  color: #1b1b1b;
+}
+.feedback-form-title p {
+  .fz(1.8rem);
+}
+.feedback-form-input {
+  position: relative;
+  width: 100%;
+  padding: 1.4rem 4.5rem 1.4rem 1.4rem;
+  border: 2px solid #d0d0d0;
+  opacity: .5;
+  color: #454545;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transitiosn: 0.3s;
+  transition: 0.3s;
+}
+.fz(@fz: 1.5rem){
+	font-size: @fz;
+}
+@color: #515151;
+
+.feedback(){
+  color: @color;
+  .fz();
+}
+.feedback-form-input::-webkit-input-placeholder {
+ .feedback();
+}
+.feedback-form-input::-moz-placeholder {
+  .feedback();
+}
+.feedback-form-input:-moz-placeholder {
+  .feedback();
+}
+.feedback-form-input:-ms-input-placeholder {
+  .feedback();
+}
+.feedback-form-input:hover,
+.feedback-form-input:focus {
+  opacity: 1;
+}
+.feedback-forminput-userphone(){
+	background: url(../img/shared/feedback/telephone-icon.svg) right 1.5rem center no-repeat;
+  background-size: 2rem;
+}
+.feedback-form .input-user {
+  .feedback-forminput-userphone();
+}
+.feedback-form .input-phone {
+  .feedback-forminput-userphone();
+}
+.feedback-form-btn {
+  min-width: 100%;
+  padding: 1.2rem 0;
+  background-color: @background;
+  text-transform: uppercase;
+  border: none;
+  color: #ffffff;
+  .fz(1.8rem);
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+.feedback-form-btn:hover {
+  background-color: #488389;
+  border-radius: 10px;
+}
+.feedback-form .title-feedback {
+  display: block;
+}
+.feedback-form .description-feedback {
+  display: block;
+}
