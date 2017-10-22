@@ -1,0 +1,43 @@
+body {
+	
+}
+
+.map {
+	padding-top: 0px;
+
+}
+
+.contact {
+	left: 25%; 
+	position: absolute;
+	display: inline-block;
+	top: -5rem;
+	padding-top: 3rem;
+	height: 431px;
+	width: 380px;
+	color: #fff;
+	background-color: red;
+	text-align: center;
+	line-height: 2;
+}
+
+.logo {
+	position: absolute;
+	left: 25%;
+}
+
+img {
+	display: inline-block;
+	
+}
+
+p {
+	display: inline-block;
+	
+}
+
+span {
+	padding-left: 10rem;
+	padding-right: 10rem;
+	opacity: 0.5;
+}
